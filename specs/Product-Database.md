@@ -13,6 +13,7 @@ We need to be able to do the following:
 - Add a new product into the system with a name, description, price and barcode number.
 - View a list of all products currently in the system.
 - Edit a product to update it's details.
+- Remove a product from the system.
 
 The following validation has been provided for the product details:
 
